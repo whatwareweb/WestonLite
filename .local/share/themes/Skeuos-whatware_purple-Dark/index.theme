@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Skeuos-whatware_purple-Dark
+Comment=Skeuos-whatware_purple-Dark theme"
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Skeuos-whatware_purple-Dark
+MetacityTheme=Skeuos-whatware_purple-Dark
+IconTheme=Flat-Remix-whatware_purple-Dark
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

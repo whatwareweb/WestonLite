@@ -1,0 +1,50 @@
+button, label, image {
+    background: none;
+    border-style: none;
+    box-shadow: none;
+    color: #c5fbff;
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    text-shadow: none;
+    background-color: rgba(85, 10, 85, 0.2);
+}
+
+button:hover {
+    background-color: rgba (255, 100, 255, 0.1);
+}
+
+button:focus {
+    box-shadow: 0 0 10px;
+}
+
+button:checked {
+    background-color: rgba (255, 255, 255, 0.1);
+}
+
+#searchbox {
+    background: none;
+    border-color: #999;
+    color: #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#separator {
+    background-color: rgba(200, 200, 200, 0.5);
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#description {
+    margin-bottom: 20px;
+}
+
+.frame{
+    background-image: url('file:///home/riceathon/.local/share/backgrounds/menu-bg.jpg');
+    background-size: cover;
+}
