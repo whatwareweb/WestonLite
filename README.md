@@ -1,2 +1,2 @@
 # WestonLite
-Super lightweight configuration for Weston window manager and plugins
+Super lightweight configuration for Weston window manager and select programs
