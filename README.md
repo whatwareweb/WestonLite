@@ -13,3 +13,7 @@ Move all the directories into your home directory. Dconf editing may be required
  - Alacritty (Optional, use a different terminal emulator if you want)
  - Xwayland
  - nwg-launchers
+
+# screenshots
+![Screenshot0](https://github.com/user-attachments/assets/145ab4af-2cea-4082-b094-f5453802979b)
+![Screenshot1](https://github.com/user-attachments/assets/35875e58-643d-4cdd-ac24-ac1f12438358)
