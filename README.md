@@ -1,7 +1,7 @@
 # WestonLite
 Super lightweight configuration for Weston window manager and select programs.
 
-This config is designed to be as usable as possible with the limitations of the Weston window manager. Since Weston doesn't support many features of other window managers such as custom keybinds or the wl-layer-shell protocol, maany expected features from a window manager might be missing. This was made to be more of a challenge project than a daily driver desktop.
+This config is designed to be as usable and aesthetically pleasing as possible with the limitations of the Weston window manager. Since Weston doesn't support many features of other window managers such as custom keybinds or the wl-layer-shell protocol, maany expected features from a window manager might be missing. This was made to be more of a challenge project than a daily driver desktop.
 
 Made for Hack Club's [Riceathon](https://github.com/hackclub/riceathon)
 
